@@ -2,7 +2,7 @@
 数据库缓存，数据库保存新闻。新闻缓存至数据库。FMDB使用，FMDB存储新闻
 
 
-[GitHub: https://github.com/Zws-China/FMDB_news](https://github.com/Zws-China/FMDB_news)  
+[GitHub: https://github.com/wl2011810996/FMDB](https://github.com/wl2011810996/FMDB)  
 
 
 # PhotoShoot
